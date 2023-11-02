@@ -1,0 +1,26 @@
+.top{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    color: orangered;
+    font-size: 20px;
+    font-weight: bold;
+
+
+}
+h1{
+    font-size: 25px;
+    font-weight: bold;
+}
+p{
+    font-size: 18px;
+}
+.looks{
+    display: flex;
+    padding-top: 50px;
+}
+.red{
+    border: 2px solid rgb(18, 87, 10);
+    margin: 20px;
+}
+
